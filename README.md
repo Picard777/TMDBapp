@@ -58,6 +58,7 @@ python main.py search --min-rating 8
 python main.py search --language en
 ```
 ## Project structure
+```
 TMDBapp/
 │
 ├── main.py        # CLI entry point & argument parsing
@@ -66,7 +67,8 @@ TMDBapp/
 ├── README.md
 ├── .gitignore
 └── .env           # API key (not committed)
-
+```
 ## License
 This project is for educational and portfolio purposes.
 TMDB data is provided by The Movie Database API.
+
